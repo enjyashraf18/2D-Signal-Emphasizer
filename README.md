@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/745a357e-e67b-4d15-9e97-c75eaf68bc4c
 
 https://github.com/user-attachments/assets/9cd558d3-5f8b-4c32-8d81-c3878e7e1f41
 
+https://github.com/user-attachments/assets/b76cffa3-f727-4b5a-87bf-f41bf71d67f2
+
 https://github.com/user-attachments/assets/ddfdd082-e6c4-443a-aded-5f63edc68dab
 
 ## Team Members
@@ -14,7 +16,7 @@ https://github.com/user-attachments/assets/ddfdd082-e6c4-443a-aded-5f63edc68dab
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/b8b8ea9d-ccb6-4ad0-b900-8e48ef2113a8" alt="Enjy Ashraf" width="150" height="150"><br>
+        <img src="https://github.com/user-attachments/assets/e8713727-6257-4c16-b9bd-8f6cb509cf1c" alt="Enjy Ashraf" width="150" height="150"><br>
         <a href="https://github.com/enjyashraf18"><b>Enjy Ashraf</b></a>
       </td>
       <td align="center" style="border: none;">
