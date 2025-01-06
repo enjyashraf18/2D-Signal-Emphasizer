@@ -288,7 +288,7 @@ class MainWindow(QtWidgets.QMainWindow):
             self.components_mixer.set_output(2)
 
     def update_sliders(self, value, index):
-        print(f"SLIDER INDEX IN UPDATE_SLIDERS: {index}")
+        # print(f"SLIDER INDEX IN UPDATE_SLIDERS : {index}")
         self.slider_labels[index].setText(str(value))
         self.components_mixer.change_weights(value, index)
 
